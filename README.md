@@ -12,7 +12,9 @@
 
 <br/>
 
-![](https://github.com/frantecbh/NLW-Setup-ignite/tree/main/images/github-cover.png)
+![Cover](./design/cover.png)
+
+
 
 ## [](https://github.com/frantecbh/NLW-Setup-ignite#--sobre-o-projeto) 💻 Sobre o projeto
 
