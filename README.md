@@ -11,8 +11,8 @@
 </p>
 
 <br/>
+![Cover](./design/github-cover.png)
 
-![](https://github.com/frantecbh/NLW-Setup-ignite/tree/main/images/github-cover.png)
 
 ## [](https://github.com/frantecbh/NLW-Setup-ignite#--sobre-o-projeto) 💻 Sobre o projeto
 
